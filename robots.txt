@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saadnasimi-dotcom.github.io/saad-nasim/sitemap.xml
